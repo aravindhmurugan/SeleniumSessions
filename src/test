@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testng Automation Suite">
+ <test name="Testng Test">
+<classes>
+<class name="com.testng.ExceptionTimeouttest"/>
+<class name="com.testng.GoogleTest"/>
+<class name="com.testng.InvocationCountTest"/>
+<class name="com.testng.TestngBasics"/>
+<class name="com.testng.TestngFeatures"/>
+</classes>
+</test>
+</suite>
